@@ -1,0 +1,15 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="QInfo" content=";MAA=;TABvAGMAYQBsAE0ATABTAA==;;MAAtAA==;;LQAxAA==;;;ZgBhAGwAcwBlAA==;MAAtAA==;ZgBhAGwAcwBlAA==;MAAtAA=="/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.9600.17031"/>
+        <meta name="IsNetworkFeed" content="FALSE"/>
+        <meta name="ItemCount" content="2"/>
+        <title>M</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Apowersoft\Apowersoft Online Audio Editor\CDRipper\NothK.mp3" tid="{60C53716-05E1-4EB3-A3EF-123DD8EE1A76}"/>
+        </seq>
+    </body>
+</smil>
